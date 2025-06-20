@@ -59,7 +59,7 @@ news-research-tool/
 │
 ├── main.py                  # Main application file
 ├── requirements.txt         # Python dependencies
-├── .env                     # API key (not pushed to repo)
+├── .env                     # API key 
 ├── faiss_store_openai.pkl   # Stored vector index (auto-generated)
 └── README.md                # Project documentation
 ```
